@@ -17,7 +17,7 @@ recorded response of each participant to a question asking if they have taken
 a fictitious drug 'Semeron'. Participants who answered that they had taken 
 this drug should be dropped from the data. The data contains no missing values. 
 
-#variables in the original dataset: age, gender, education, country, ethnicity, 
+variables in the original dataset: age, gender, education, country, ethnicity, 
 nscore, escore, oscore, ascore, cscore, impulsiveness, ss (sensation seeking), 
 alcohol, amphet, amyl (amyl nitrate), benzos caff, cannabis, coke, crack, 
 ecstasy, heroin, ketamine, legalh, lsd, meth, mushrooms, nicotine, 
